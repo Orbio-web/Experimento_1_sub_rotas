@@ -1,6 +1,6 @@
 # Diretório contendo arquivos dos experimento
-**Algoritmo 1 - _Decompsição da rota completa e sub-rotas
-_**
+**Algoritmo 1 - _Decompsição da rota completa e sub-rotas_**
+
 Onde os arquivos:
 
 **.txt** - planos de voo individuais;
