@@ -5,7 +5,7 @@ Arquivos disponíveis:
 
 **.txt** - planos de voo individuais;
 
-**.png** - printscreen da área total, rota completa e sub-rotas;
+**.png** - _screenshot_ da área total, rota completa e sub-rotas;
 
 **.csv** - arquivo contendo as coordenadas da rota completa.
 
