@@ -1,4 +1,5 @@
-# Diretório contendo arquivos dos experimento (Algoritmo 1 - Decompsição da rota completa e sub-rotas)
+# Diretório contendo arquivos dos experimento
+: Algoritmo 1 - Decompsição da rota completa e sub-rotas
 
 Onde os arquivos:
 
