@@ -1,4 +1,4 @@
-# Diretório contendo arquivos dos experimento
+# Diretório contendo arquivos do experimento
 **Algoritmo 1 - _Decompsição da rota completa e sub-rotas_**
 
 Arquivos disponíveis:
