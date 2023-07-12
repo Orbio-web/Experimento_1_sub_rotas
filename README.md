@@ -3,13 +3,11 @@
 
 Arquivos disponíveis:
 
-**.txt** - planos de voo individuais;
+**.txt** - planos de voo da rota completa e sub-rotas;
 
-**.png** - _screenshot_ da área total, rota completa e sub-rotas;
+**.png** - _screenshot_ da área total e sub-rotas;
 
 **.csv** - arquivo contendo as coordenadas da rota completa.
 
-
-As imagens foram importadas para o software de planejamento de rotas _Litchi_, para serem carregadas no VANT.
 
 
